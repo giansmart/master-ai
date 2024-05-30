@@ -1,0 +1,5 @@
+hervivoro_a_planta
+    foreach
+        depredador.devora_a($predador,$presa)
+    assert
+        depredador.es_devorado($presa, $predador)
