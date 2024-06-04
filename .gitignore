@@ -6,6 +6,7 @@ __pycache__/
 assets
 .idea
 .DS_Store
+**/.DS_Store
 
 # Jupyter Notebook
 .ipynb_checkpoints
